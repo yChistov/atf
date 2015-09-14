@@ -1,0 +1,17 @@
+environments:
+
+ local:
+  scheme: http
+  host: rozetka.com.ua
+
+ development:
+  scheme: http
+  host: localhost
+
+ test:
+  scheme: http
+  host: localhost
+
+ production:
+  scheme: http
+  host: 127.0.0.1

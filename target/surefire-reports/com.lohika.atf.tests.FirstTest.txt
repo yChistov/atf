@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.lohika.atf.tests.FirstTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.557 sec <<< FAILURE! - in com.lohika.atf.tests.FirstTest
+testMethod(com.lohika.atf.tests.FirstTest)  Time elapsed: 0.008 sec  <<< FAILURE!
+java.lang.ExceptionInInitializerError: null
+	at com.lohika.atf.core.web.WebPage.<clinit>(WebPage.java:15)
+	at com.lohika.atf.tests.FirstTest.testMethod(FirstTest.java:13)
+
